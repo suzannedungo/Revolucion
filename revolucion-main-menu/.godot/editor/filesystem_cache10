@@ -1,0 +1,31 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1750138444
+::res://assets/::1749963493
+::res://assets/font/::1749963572
+Jersey10-Regular.ttf::FontFile/FontFile::7912221266383475437::1749963493::1749963572::1::::<><><>0<>0<>fd5ea218ea7d650c97f7c4b61b4de72e<>res://.godot/imported/Jersey10-Regular.ttf-0cbaca75d4dc10018c82ab0cf975dff5.fontdata::
+::res://assets/img/::1749963572
+backbtnfinal.png::CompressedTexture2D/CompressedTexture2D::499271966697515185::1749963493::1749963572::1::::<><><>0<>0<>aca17feb0d80e84d68e5b23d1921f996<>res://.godot/imported/backbtnfinal.png-8df9614346749edda972fe8c8955fa0b.ctex::
+Base-01.png::CompressedTexture2D/CompressedTexture2D::1994038856716113179::1749963493::1749963572::1::::<><><>0<>0<>45529759907a12514762bb1d98b9cc82<>res://.godot/imported/Base-01.png-4aba3e261a93d15a492cf0455ca987e2.ctex::
+main menu arrows final.png::CompressedTexture2D/CompressedTexture2D::8066382062057402034::1749963493::1749963572::1::::<><><>0<>0<>8ee45d9dd0801beacce82ada6cd48bd4<>res://.godot/imported/main menu arrows final.png-b6fc8a2a0bae582ef762b8a10c536e3c.ctex::
+photo_2025-06-09_20-57-09.jpg::CompressedTexture2D/CompressedTexture2D::30183454348319195::1749963493::1749963572::1::::<><><>0<>0<>77f42d701e7506eb7cdc3914c8ebe36a<>res://.godot/imported/photo_2025-06-09_20-57-09.jpg-a847fd5de41530f33443741d6f9ae251.ctex::
+photo_2025-06-09_20-57-25.jpg::CompressedTexture2D/CompressedTexture2D::7600063965988250473::1749963493::1749963572::1::::<><><>0<>0<>55d79f427dfa3bc49bf7575bddc3b01f<>res://.godot/imported/photo_2025-06-09_20-57-25.jpg-f308e16b94f83c2a0dee5bcfbd0c3b23.ctex::
+::res://assets/music/::1749963493
+::res://assets/music/bgmusic/::1749963572
+8-bit-classic-arcade-game-116832.mp3::AudioStreamMP3/AudioStreamMP3::6338242251289788941::1749963493::1749963572::1::::<><><>0<>0<>8abc887c56144a7d8a259a3f7dc40b8d<>res://.godot/imported/8-bit-classic-arcade-game-116832.mp3-ca9849243e1a0eee32045f0c372fa280.mp3str::
+get-in-here-fantasy-instrumental-164331 (1).mp3::AudioStreamMP3/AudioStreamMP3::561847218825757381::1749963493::1749963572::1::::<><><>0<>0<>a49d73dd722df68531017d9097fe933a<>res://.godot/imported/get-in-here-fantasy-instrumental-164331 (1).mp3-366d2b752fbb63bfa2651019b8f42e02.mp3str::
+strategy-games-classic-arcade-game-116828.mp3::AudioStreamMP3/AudioStreamMP3::7363977143675147218::1749963493::1749963572::1::::<><><>0<>0<>08a4399c40f1fd7938b203430f89a38f<>res://.godot/imported/strategy-games-classic-arcade-game-116828.mp3-73f37c3588184b8f2ec99062bea47872.mp3str::
+::res://assets/music/bus/::1749963493
+default_bus_layout.tres::AudioBusLayout/AudioBusLayout::3776728883752926051::1749963493::0::1::::<><><>0<>0<><>::
+::res://assets/music/button/::1749963572
+clear.mp3::AudioStreamMP3/AudioStreamMP3::8066762063368999762::1749963493::1749963572::1::::<><><>0<>0<>542d494988c4d404ff6105f93666cc02<>res://.godot/imported/clear.mp3-ae33b894f07e7d253eeeec3d30a7a877.mp3str::
+ui-button-click-5-327756.mp3::AudioStreamMP3/AudioStreamMP3::1478013279092682532::1749963493::1749963572::1::::<><><>0<>0<>fa9d864a4df624e6e31c30228a253bcb<>res://.godot/imported/ui-button-click-5-327756.mp3-cb0fde4862d18f3857a780e765b3909d.mp3str::
+::res://Scenes/::1749963583
+game.tscn::PackedScene/PackedScene::4457903663045706537::1749963493::0::1::::<><><>0<>0<><>::
+main-menu.tscn::PackedScene::333314231165323132::1749963583::0::1::::<><><>0<>0<><>::uid://dttc8mq66pn1y::::res://scripts/main_menu.gd<>uid://dgjr7cjbmu1yr::::res://assets/img/photo_2025-06-09_20-57-25.jpg<>uid://dky0emjojby8t::::res://assets/font/Jersey10-Regular.ttf<>uid://dm6oes7wnnaq1::::res://assets/img/main menu arrows final.png<>uid://hd363ogfgaov::::res://assets/img/backbtnfinal.png<>uid://3n6r8dtgaxb4::::res://assets/img/Base-01.png<>uid://cnhauges1u86o::::res://scripts/audio_control.gd
+music_manager.tscn::PackedScene/PackedScene::3089116994783563392::1749963493::0::1::::<><><>0<>0<><>::uid://diq0qr0vhhjt8::::res://scripts/music_manager.gd<>uid://iafsodlexuob::::res://assets/music/bgmusic/get-in-here-fantasy-instrumental-164331 (1).mp3<>uid://vb7wsfml7a25::::res://assets/music/button/ui-button-click-5-327756.mp3
+select-profile.tscn::PackedScene/PackedScene::7624366411203226772::1749963493::0::1::::<><><>0<>0<><>::uid://ovd8l3trpx0::::res://assets/img/photo_2025-06-09_20-57-09.jpg<>uid://rgj37scof15c::::res://scripts/select_profile.gd<>uid://dky0emjojby8t::::res://assets/font/Jersey10-Regular.ttf<>uid://hd363ogfgaov::::res://assets/img/backbtnfinal.png<>uid://3n6r8dtgaxb4::::res://assets/img/Base-01.png
+::res://scripts/::1749963493
+audio_control.gd::GDScript/GDScript::5699783017009865648::1749963493::0::1::::<>HSlider<><>0<>0<><>::
+main_menu.gd::GDScript/GDScript::8532254279161051144::1749963493::0::1::::<>Control<><>0<>0<><>::
+music_manager.gd::GDScript/GDScript::7755350274251005907::1749963493::0::1::::<>Node<><>0<>0<><>::
+select_profile.gd::GDScript/GDScript::1206194772198635694::1749963493::0::1::::<>Control<><>0<>0<><>::

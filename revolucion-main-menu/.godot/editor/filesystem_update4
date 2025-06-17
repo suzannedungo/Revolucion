@@ -1,0 +1,4 @@
+res://Scenes/main-menu.tscn
+res://scripts/select_profile.gd
+res://Scenes/select-profile.tscn
+res://Scenes/music_manager.tscn
